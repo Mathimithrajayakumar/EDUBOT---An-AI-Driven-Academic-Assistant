@@ -52,7 +52,10 @@ The goal of EduBot is to simplify learning by providing a smart assistant that s
 
 ---
 ##  Screenshot
-https://github.com/Mathimithrajayakumar/EDUBOT---An-AI-Driven-Academic-Assistant/blob/main/WhatsApp%20Image%202026-04-18%20at%203.10.46%20PM.jpeg
+Screenshot1.png
+Screenshot2.png
+Screenshot3.png
+Screenshot4.png
 
 
 ---
