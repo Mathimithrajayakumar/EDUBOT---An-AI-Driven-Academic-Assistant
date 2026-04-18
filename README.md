@@ -39,7 +39,7 @@ EduBot is an AI-powered academic assistant designed to help students improve the
 ##  Installation
 
 ```bash
-git clone https://github.com/your-username/edubot.git
+git clone https://github.com/MathimithraJayakumar/edubot.git
 cd edubot
 npm install
 npm start
