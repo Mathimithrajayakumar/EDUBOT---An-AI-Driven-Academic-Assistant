@@ -37,6 +37,3 @@ Advanced AI-based personalized learning
 Voice interaction
 Mobile application support
 Real-time student performance tracking
-Author
-Mathimithra
-Computer Science Student
