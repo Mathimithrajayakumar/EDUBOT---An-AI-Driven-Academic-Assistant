@@ -52,10 +52,8 @@ The goal of EduBot is to simplify learning by providing a smart assistant that s
 
 ---
 ##  Screenshot
-![EduBot Screenshot]("C:\Users\mathi\OneDrive\Desktop\EDUBOT\WhatsApp Image 2026-04-18 at 3.10.46 PM.jpeg")
-![EduBot Screenshot]("C:\Users\mathi\OneDrive\Desktop\EDUBOT\WhatsApp Image 2026-04-18 at 3.10.47 PM (1).jpeg")
-![EduBot Screenshot]("C:\Users\mathi\OneDrive\Desktop\EDUBOT\WhatsApp Image 2026-04-18 at 3.10.47 PM (2).jpeg")
-![EduBot Screenshot]("C:\Users\mathi\OneDrive\Desktop\EDUBOT\WhatsApp Image 2026-04-18 at 3.10.47 PM.jpeg")
+https://github.com/Mathimithrajayakumar/EDUBOT---An-AI-Driven-Academic-Assistant/blob/main/WhatsApp%20Image%202026-04-18%20at%203.10.46%20PM.jpeg
+
 
 ---
 
